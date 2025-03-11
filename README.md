@@ -45,3 +45,5 @@ The Investopedia Team. “Credit Rating vs. Credit Score: What’s the Differenc
 The Investopedia Team. “How Credit Is Scored/Rated for Individuals, Companies, and Governments.” _Investopedia_, Investopedia, 27 Sep. 2021, reviewed by Chip Stapleton, fact checked by Daniel Rathburn, www.investopedia.com/ask/answers/110614/what-do-letters-symbols-credit-ratings-mean.asp#:~:text=A%20typical%20credit%20rating%20scale,CC%2C%20C%2C%20and%20D.&text=These%20ratings%20are%20used%20by,investments%20backed%20by%20any%20country. Accessed 10 Mar. 2025. 
 
 “Udacity Git Commit Message Style Guide.” _Udacity Nanodegree Style Guide_, udacity.github.io/git-styleguide/. Accessed 7 Mar. 2025. 
+
+Yolo_chicken. “Remove Rows That Contain False in a Column of Pandas Dataframe.” _Stack Overflow_, 1 Mar. 1961, stackoverflow.com/questions/37213556/remove-rows-that-contain-false-in-a-column-of-pandas-dataframe. Accessed 11 Mar. 2025.
