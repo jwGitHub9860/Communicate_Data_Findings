@@ -24,6 +24,8 @@ Abela, A. "Chart Suggestions-----A Thought-Starter", 2006, www.mymarketresearchm
 
 “DataFrame.” _DataFrame - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/frame.html. Accessed 7 Mar. 2025. 
 
+“Drop Rows from Dataframe Based on Certain Condition Applied on a Column - Pandas.” GeeksforGeeks, GeeksforGeeks, 27 Nov. 2024, www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/. Accessed 10 Mar. 2025.
+
 “Filter Pandas Dataframe with Multiple Conditions.” _GeeksforGeeks_, GeeksforGeeks, 7 Aug. 2024, www.geeksforgeeks.org/filter-pandas-dataframe-with-multiple-conditions/. Accessed 10 Mar. 2025.
 
 Huntsberger, Alex. “Grading Your Credit Score.” _OppLoans_, 27 Sept. 2024, www.opploans.com/oppu/building-credit/grading-your-credit-score/. Accessed 10 Mar. 2025.
