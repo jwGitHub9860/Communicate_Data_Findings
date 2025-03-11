@@ -22,6 +22,8 @@ Abela, A. "Chart Suggestions-----A Thought-Starter", 2006, www.mymarketresearchm
 
 “DataFrame.” _DataFrame - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/frame.html. Accessed 7 Mar. 2025. 
 
+“Filter Pandas Dataframe with Multiple Conditions.” _GeeksforGeeks_, GeeksforGeeks, 7 Aug. 2024, www.geeksforgeeks.org/filter-pandas-dataframe-with-multiple-conditions/. Accessed 10 Mar. 2025.
+
 jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 1 Mar. 1958, stackoverflow.com/questions/16150819/common-xlabel-ylabel-for-matplotlib-subplots. Accessed 7 Mar. 2025.
 
 “MLA Works Cited: Electronic Sources (Web Publications).” _MLA Works Cited: Electronic Sources - Purdue OWL® - Purdue University_, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html. Accessed 7 Mar 2025.
