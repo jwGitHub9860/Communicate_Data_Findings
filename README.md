@@ -44,6 +44,8 @@ jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 
 
 Sato, Gayle. “How to Choose the Best Loan Term for Your Needs.” _Experian_, Experian, 13 May 2023, www.experian.com/blogs/ask-experian/how-to-choose-the-best-loan-term-for-your-needs/. Accessed 15 Mar. 2025.
 
+“Seaborn.FacetGrid.” _Seaborn.FacetGrid - Seaborn 0.13.2 Documentation_, seaborn.pydata.org/generated/seaborn.FacetGrid.html. Accessed 17 Mar. 2025. 
+
 “Series.” _Series - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/series.html. Accessed 7 Mar. 2025. 
 
 The Investopedia Team. “Credit Rating vs. Credit Score: What’s the Difference?” _Investopedia_, Investopedia, 7 Aug. 2023, reviewed by Chip Stapleton, fact checked by Suzanne Kvilhaug, www.investopedia.com/ask/answers/110614/whats-difference-between-credit-rating-and-credit-score.asp#:~:text=Credit%20Score:%20An%20Overview,and%20how%20they%20are%20used. Accessed 10 Mar. 2025. 
