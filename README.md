@@ -18,6 +18,10 @@ prosperLoanData.csv
 
 Abela, A. "Chart Suggestions-----A Thought-Starter", 2006, www.mymarketresearchmethods.com/wp-content/uploads/2013/01/Chart-types.jpg. Accessed 7 Mar. 2025.
 
+Benares, and Martin Evans. “Modify the Legend of Pandas Bar Plot.” _Stack Overflow_, 1 Aug. 1960, stackoverflow.com/questions/33149428/modify-the-legend-of-pandas-bar-plot. Accessed 16 Mar. 2025.
+
+Bobbitt, Zach. “Pandas: How to Create and Customize Plot Legends.” _Statology_, 16 Dec. 2021, www.statology.org/pandas-plot-legend/. Accessed 16 Mar. 2025.
+
 "Credit Scoring & Grading." _Professional Mortgage Consultants_, pmc-pa.com/credit-scoring-grading/. Accessed 10 Mar. 2025. 
 
 "Data Wrangling with pandas Cheat Sheet." pandas.pydata.org/Pandas_Cheat_Sheet.pdf. Accessed 7 Mar. 2025.
@@ -37,6 +41,10 @@ jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 
 “pandas.DataFrame.plot.” _Pandas.DataFrame.Plot - Pandas 0.23.1 Documentation_, pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html. Accessed 7 Mar. 2025. 
 
 "Python For Data Science _Cheat Sheet_." _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 7 Mar. 2025. 
+
+Sato, Gayle. “How to Choose the Best Loan Term for Your Needs.” _Experian_, Experian, 13 May 2023, www.experian.com/blogs/ask-experian/how-to-choose-the-best-loan-term-for-your-needs/. Accessed 15 Mar. 2025.
+
+“Seaborn.FacetGrid.” _Seaborn.FacetGrid - Seaborn 0.13.2 Documentation_, seaborn.pydata.org/generated/seaborn.FacetGrid.html. Accessed 17 Mar. 2025. 
 
 “Series.” _Series - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/series.html. Accessed 7 Mar. 2025. 
 
