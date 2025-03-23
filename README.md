@@ -42,6 +42,8 @@ jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 
 
 “pandas.DataFrame.plot.” _Pandas.DataFrame.Plot - Pandas 0.23.1 Documentation_, pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html. Accessed 7 Mar. 2025. 
 
+“Prosper Score Definition.” _Law Insider_, www.lawinsider.com/dictionary/prosper-score. Accessed 23 Mar. 2025.
+
 "Python For Data Science _Cheat Sheet_." _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 7 Mar. 2025. 
 
 Ross, Sean. “How to Quantify Credit Risk.” _Investopedia_, Investopedia, 20 Mar. 2023, www.investopedia.com/ask/answers/022415/what-factors-are-taken-account-quantify-credit-risk.asp#:~:text=The%20quantification%20of%20credit%20risk,criteria%20to%20market%2Dwide%20considerations. Accessed 23 Mar. 2025.
