@@ -42,6 +42,8 @@ jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 
 
 "Python For Data Science _Cheat Sheet_." _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 7 Mar. 2025. 
 
+Ross, Sean. “How to Quantify Credit Risk.” _Investopedia_, Investopedia, 20 Mar. 2023, www.investopedia.com/ask/answers/022415/what-factors-are-taken-account-quantify-credit-risk.asp#:~:text=The%20quantification%20of%20credit%20risk,criteria%20to%20market%2Dwide%20considerations. Accessed 23 Mar. 2025.
+
 Sato, Gayle. “How to Choose the Best Loan Term for Your Needs.” _Experian_, Experian, 13 May 2023, www.experian.com/blogs/ask-experian/how-to-choose-the-best-loan-term-for-your-needs/. Accessed 15 Mar. 2025.
 
 “Seaborn.FacetGrid.” _Seaborn.FacetGrid - Seaborn 0.13.2 Documentation_, seaborn.pydata.org/generated/seaborn.FacetGrid.html. Accessed 17 Mar. 2025. 
