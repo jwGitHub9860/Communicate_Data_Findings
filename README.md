@@ -42,6 +42,8 @@ jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 
 
 “pandas.DataFrame.plot.” _Pandas.DataFrame.Plot - Pandas 0.23.1 Documentation_, pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html. Accessed 7 Mar. 2025. 
 
+“Prosper Personal Loans & Debt Consolidation Review (2025).” _Debt.Org_, 24 Dec. 2024, www.debt.org/consolidation/companies/prosper/#:~:text=The%20application%20will%20ask%20for,11%20that%20ranks%20your%20credit. Accessed 23 Mar. 2025.
+
 “Prosper Score Definition.” _Law Insider_, www.lawinsider.com/dictionary/prosper-score. Accessed 23 Mar. 2025.
 
 "Python For Data Science _Cheat Sheet_." _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 7 Mar. 2025. 
