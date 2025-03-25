@@ -36,11 +36,19 @@ Huntsberger, Alex. “Grading Your Credit Score.” _OppLoans_, 27 Sept. 2024, w
 
 jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 1 Mar. 1958, stackoverflow.com/questions/16150819/common-xlabel-ylabel-for-matplotlib-subplots. Accessed 7 Mar. 2025.
 
+“Loan Listing Definition.” _Law Insider_, www.lawinsider.com/dictionary/loan-listing. Accessed 23 Mar. 2025.
+
 “MLA Works Cited: Electronic Sources (Web Publications).” _MLA Works Cited: Electronic Sources - Purdue OWL® - Purdue University_, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html. Accessed 7 Mar 2025.
 
 “pandas.DataFrame.plot.” _Pandas.DataFrame.Plot - Pandas 0.23.1 Documentation_, pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html. Accessed 7 Mar. 2025. 
 
+“Prosper Personal Loans & Debt Consolidation Review (2025).” _Debt.Org_, 24 Dec. 2024, www.debt.org/consolidation/companies/prosper/#:~:text=The%20application%20will%20ask%20for,11%20that%20ranks%20your%20credit. Accessed 23 Mar. 2025.
+
+“Prosper Score Definition.” _Law Insider_, www.lawinsider.com/dictionary/prosper-score. Accessed 23 Mar. 2025.
+
 "Python For Data Science _Cheat Sheet_." _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 7 Mar. 2025. 
+
+Ross, Sean. “How to Quantify Credit Risk.” _Investopedia_, Investopedia, 20 Mar. 2023, www.investopedia.com/ask/answers/022415/what-factors-are-taken-account-quantify-credit-risk.asp#:~:text=The%20quantification%20of%20credit%20risk,criteria%20to%20market%2Dwide%20considerations. Accessed 23 Mar. 2025.
 
 Sato, Gayle. “How to Choose the Best Loan Term for Your Needs.” _Experian_, Experian, 13 May 2023, www.experian.com/blogs/ask-experian/how-to-choose-the-best-loan-term-for-your-needs/. Accessed 15 Mar. 2025.
 
